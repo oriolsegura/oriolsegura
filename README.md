@@ -3,9 +3,7 @@
 ## Languages and Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,java,postgres,mysql,redis,kafka" /><br />
-  <img src="https://skillicons.dev/icons?i=javascript,react,cpp,c,python" /><br />
-  <img src="https://skillicons.dev/icons?i=rust,solidity" />
+  <img src="https://skillicons.dev/icons?i=laravel,java,postgres,mysql,redis,kafka,solidity,javascript,react,c,python,rust&perline=6" />
 </div>
 
 ## Contact me
