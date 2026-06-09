@@ -1,9 +1,9 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=435&lines=Hi+there%2C+I%27m+Oriol+%F0%9F%91%8B%F0%9F%8F%BB)
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=435&lines=Backend+Software+Engineer)
 
 ## Languages and Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,java,postgres,mysql,redis,kafka,solidity,javascript,react,c,python,rust&perline=6" />
+  <img src="https://skillicons.dev/icons?i=java,php,javascript,c,postgres,mysql,spring,laravel,kafka,redis,docker,kubernetes&perline=6" />
 </div>
 
 ## Contact me
